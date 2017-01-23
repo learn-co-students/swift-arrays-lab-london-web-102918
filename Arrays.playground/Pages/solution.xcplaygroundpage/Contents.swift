@@ -65,9 +65,9 @@ func lifesEssential(ingredients: Array<String>) -> Bool {
 
 // 10
 
-print(lifesEssential(shoppingList))
+print(lifesEssential(ingredients: shoppingList))
 
 
 // 11
 
-print(lifesEssential(desertList))
+print(lifesEssential(ingredients: desertList))
